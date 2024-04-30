@@ -1,4 +1,6 @@
 ### Hi there 👋
+# Baban Dev
+Développeur intégrateur web passionné par React, spécialisé dans la création d'expériences digitales innovantes. Fort d'une expertise en HTML, CSS et JavaScript, avec une volonté constante d'apprentissage et de collaboration. Rejoignez-moi dans la construction de projets web fascinants ! 🚀💻 #ReactJS #FrontEnd #DéveloppementWeb
 
 <!--
 **Babanlpz/Babanlpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
